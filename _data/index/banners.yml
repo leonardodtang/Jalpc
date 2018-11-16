@@ -2,14 +2,14 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/banner1_gyrfalcon.jpg
+- src: landing/banner1_gyrfalcon.JPG
   title: Gyrfalcon Technology Basketball Team Photoshoot
 
-- src: landing/banner2.jpg
+- src: landing/banner2.JPG
   title: SF Summer 2018
 
-- src: landing/banner3.jpg
+- src: landing/banner3.JPG
   title: SF Fall 2017
 
-- src: landing/banner_taiwan.jpg
+- src: landing/banner_taiwan.JPG
   title: AID Summer 2018

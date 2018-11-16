@@ -18,5 +18,5 @@
 - name: CS61B - The Game
   i18n: google
   url: https://www.youtube.com/watch?v=2coMiCVwCBs
-  img: /static/assets/img/landing/cs61bthegame_thumbnail.png
+  img: /static/assets/img/landing/cs61bthegame_thumbnail.PNG
   desc: Implemented tile-based dungeon crawler game with randomized world building and NPC movement in Java. Main objective is to collect shrooms by navigating rooms and hallways while avoiding touch damage from enemies.
