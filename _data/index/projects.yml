@@ -6,24 +6,17 @@
   gh_user: leonardodtang
   repo: convnet-medical-imaging
   img: /static/assets/img/landing/u_net_thumbnail.png
-  desc: Intended for image segmentation of primarily MRI
-  brain images among other imaging modalities.
-  2D U-Net for familiarity, 3D V-Net to improve on
-  2D approaches since most medical data consists of 3D volumes
+  desc: Intended for image segmentation of primarily MRI brain images among other imaging modalities. 2D U-Net for familiarity, 3D V-Net to improve on 2D approaches since most medical data consists of 3D volumes
 
 - name: Mock Paint
   i18n: cpython
   gh_user: leonardodtang
   repo: calhacks5.0
   img: /static/assets/img/landing/paint_thumbnail.png
-  desc: A re-creation of the classic paint tool.
-  Started as a hackathon project at CalHacks 2018
+  desc: A re-creation of the classic paint tool. Started as a hackathon project at CalHacks 2018
 
 - name: CS61B - The Game
   i18n: google
   url: https://www.youtube.com/watch?v=2coMiCVwCBs
   img: /static/assets/img/landing/cs61bthegame_thumbnail.png
-  desc: Implemented tile-based dungeon crawler game with randomized
-  world building and NPC movement in Java. Main objective is to
-  collect shrooms by navigating rooms and hallways while
-  avoiding touch damage from enemies.
+  desc: Implemented tile-based dungeon crawler game with randomized world building and NPC movement in Java. Main objective is to collect shrooms by navigating rooms and hallways while avoiding touch damage from enemies.

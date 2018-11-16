@@ -4,11 +4,7 @@
     detail: UC Berkeley EECS Department
     i18n: company_a
   desc:
-    detail: Assisted in developing students’ abilities
-    in using data-structures and object-orientated
-    design to implement several projects, such as
-    filling a board with symmetric regions,
-    and aided in weekly lab sessions and office hours.
+    detail: Assisted in developing students’ abilities in using data-structures and object-orientated design to implement several projects, such as filling a board with symmetric regions, and aided in weekly lab sessions and office hours.
     i18n: company_a_desc
   date:
     detail: Aug. 2018 - present
@@ -22,10 +18,7 @@
     detail: Gyrfalcon Technology Inc.
     i18n: company_b
   desc:
-    detail: Machine learning projects with a focus
-    on real time object detection frameworks in
-    video processing to implement in the Lightspeeur
-    Series Intelligent Processor.
+    detail: Machine learning projects with a focus on real time object detection frameworks in video processing to implement in the Lightspeeur Series Intelligent Processor.
     i18n: company_b_desc
   date:
     detail: Jun. 2018 - Aug. 2018
@@ -39,11 +32,7 @@
     detail: Emory University School of Medicine
     i18n: company_a
   desc:
-    detail: Use machine learning methods to search and
-    extract the possible radiation induced abnormalities
-    from the MRI data of a patient cohort, and further
-    to characterize radiation-induced neurodegenerative
-    effects on white and gray matters.
+    detail: Use machine learning methods to search and extract the possible radiation induced abnormalities from the MRI data of a patient cohort, and further to characterize radiation-induced neurodegenerative effects on white and gray matters.
     i18n: company_a_desc
   date:
     detail: Aug. 2016 - Jun. 2017

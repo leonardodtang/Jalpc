@@ -3,10 +3,13 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/banner1_gyrfalcon.jpg
-  title: first banner image
+  title: Gyrfalcon Technology Basketball Team Photoshoot
 
 - src: landing/banner2.jpg
-  title: second banner image
+  title: SF Summer 2018
 
 - src: landing/banner3.jpg
-  title: third banner image
+  title: SF Fall 2017
+
+- src: landing/banner_taiwan.jpg
+  title: AID Summer 2018
