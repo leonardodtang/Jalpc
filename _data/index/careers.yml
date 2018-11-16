@@ -1,29 +1,54 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: UC Berkeley EECS Department
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Assisted in developing students’ abilities
+    in using data-structures and object-orientated
+    design to implement several projects, such as
+    filling a board with symmetric regions,
+    and aided in weekly lab sessions and office hours.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Aug. 2018 - present
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Academic Intern - CS61B
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Gyrfalcon Technology Inc.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Machine learning projects with a focus
+    on real time object detection frameworks in
+    video processing to implement in the Lightspeeur
+    Series Intelligent Processor.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2018 - Aug. 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Engineering Intern
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Emory University School of Medicine
+    i18n: company_a
+  desc:
+    detail: Use machine learning methods to search and
+    extract the possible radiation induced abnormalities
+    from the MRI data of a patient cohort, and further
+    to characterize radiation-induced neurodegenerative
+    effects on white and gray matters.
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2016 - Jun. 2017
+    i18n: company_a_date
+  job:
+    detail: Intern
+    i18n: company_a_job
   icon: fa-plus-square
