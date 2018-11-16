@@ -28,9 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am an undergraduate student at the University of California at Berkeley in the Electrical Engineering and Computer Science Department. \n
-
-I take interest in any and all technological pursuits, but my currently documented interests particularly align with the possibilities of machine learning due to my past experience involving convolutional neural networks, particularly object detection networks. I expect to explore the possibilities of these branches of technology and implement them in the machines that will bring the future to the present.  # Describe yourself.
+  desc: I am an undergraduate student at the University of California at Berkeley in the Electrical Engineering and Computer Science Department. \n I take interest in any and all technological pursuits, but my currently documented interests particularly align with the possibilities of machine learning due to my past experience involving convolutional neural networks, particularly object detection networks. I expect to explore the possibilities of these branches of technology and implement them in the machines that will bring the future to the present.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
