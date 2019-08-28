@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: AT&T Atlanta Foundry
+    i18n: company_a
+  desc:
+    detail: Collected performance metrics using customized version of ALVR, an open source remote VR display, for 5G vs LTE and WiFi. Stress test for 5G using high demand, compute intensive edge processing applications. Magic Leap Development in AR space for 3D video conferencing, implemented user experience in Unity app
+  date:
+    detail: Jun. 2019 - Aug. 2019
+    i18n: company_a_date
+  job:
+    detail: Foundry Technical Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: UC Berkeley EECS Department
     i18n: company_a
   desc:

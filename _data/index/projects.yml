@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Financial Algorithsm
+  i18n: cpython
+  gh_user: leonardodtang
+  repo: 
+  img: /static/assets/img/landing/shattered.png
+  desc: Financial models (Monte Carlo Simulation using Brownian Model, LSTM, etc.)
+
 - name: U-Net and V-Net Keras Implementation
   i18n: jalpc
   gh_user: leonardodtang
